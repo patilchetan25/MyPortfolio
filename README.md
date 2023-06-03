@@ -4,9 +4,9 @@ It's my portfolio all details of mine are available here
  
  * HTML
  * CSS
- * JAVASCRPT
+ * JAVASCRIPT
 
 ## Demo
 
 ## Link :point_down:
-[Portfolio_Link](https://patilchetan25-healthapp-multiple-disease-pred-okcr7y.streamlit.app/)
+[Portfolio_Link](https://patilchetan25.github.io/My_Portfolio/)
