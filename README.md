@@ -1,10 +1,12 @@
-# portfolio
+# My Portfolio
 
-Here is My portfolio
+It's my portfolio all details of mine are available here
+ 
+ * HTML
+ * CSS
+ * JAVASCRPT
 
-Tech stack used -
-1) HTML
-2) JavaScript
-3) Css
+## Demo
 
-here all about my details and work.
+## Link :point_down:
+[Portfolio_Link](https://patilchetan25-healthapp-multiple-disease-pred-okcr7y.streamlit.app/)
