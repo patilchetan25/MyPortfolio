@@ -82,6 +82,8 @@ sr.reveal(".skills-data", { interval: 100 });
 /*SCROLL projects*/
 sr.reveal(".project-img", { interval: 200 });
 
+
+
 /*SCROLL CONTACT*/
   // sr.reveal(".contact-input", { interval: 200 });
 
